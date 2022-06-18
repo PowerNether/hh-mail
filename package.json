@@ -1,0 +1,15 @@
+{
+  "name": "hh-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^6.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
